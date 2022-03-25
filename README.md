@@ -38,5 +38,8 @@ contoh :
 * deklarasi css eksternal
 ![gambar 6](screenshot/foto6.png)
 
-css eksternal di sisipkan dengan menambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
+* css eksternal di sisipkan dengan menambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
 ![gambar 7](screenshot/foto7.png)
+
+tampilan di browser :
+![gambar 8](screenshot/foto2.png)
