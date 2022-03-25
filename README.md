@@ -28,3 +28,15 @@
 2. => Kalau h1{...} Untuk memberikan style pada semua element h1
 
 => Kalau #intro h1{...} Awalan simbol hash (#) memungkinkan kita untuk memberi style pada id. selector id bersifat kaku dan tidak bisa digunakan kembali pada element yang lainnya. Menurut saya lebih baik gunakan selektor class untuk mendefinisikan element yang ingin diberi nilai.
+
+3. semua deklarasi akan ditampilkan di browser
+
+contoh :
+* deklarasi css internal dan inline css
+![gambar 5](screenshot/foto5.png)
+
+* deklarasi css eksternal
+![gambar 6](screenshot/foto6.png)
+
+css eksternal di sisipkan dengan menambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
+![gambar 7](screenshot/foto7.png)
