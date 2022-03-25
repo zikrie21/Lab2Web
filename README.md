@@ -8,13 +8,13 @@
 
 # Jawaban
 
-1. 
-sebelum dirubah :
-![gambar 1](screenshot/ss1.png)
+1. sebelum dirubah :
 
-![gambar 2](screenshot/ss2.png)
+![gambar 1](screenshot/foto1.png)
+
+![gambar 2](screenshot/foto2.png)
 
 sesudah dirubah :
-![gambar 3](screenshot/ss3.png)
+![gambar 3](screenshot/foto3.png)
 
-![gambar 4](screenshot/ss4.png)
+![gambar 4](screenshot/foto4.png)
