@@ -8,17 +8,18 @@
 
 # Jawaban
 
-1. sebelum dirubah :
+1. 
+* sebelum dirubah :
 
 ![gambar 1](screenshot/foto1.png)
 
-tampilan dibrowser :
+* tampilan dibrowser :
 ![gambar 2](screenshot/foto2.png)
 
-sesudah dirubah :
+* sesudah dirubah :
 ![gambar 3](screenshot/foto3.png)
 
-tampilan dibrowser :
+* tampilan dibrowser :
 ![gambar 4](screenshot/foto4.png)
 
 2. => Kalau h1{...} Untuk memberikan style pada semua element h1
