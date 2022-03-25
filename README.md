@@ -36,7 +36,7 @@ contoh :
 ![gambar 5](screenshot/foto5.png)
 
 * deklarasi css eksternal
-![gambar 6](screenshot/foto6.png)
+![gambar 6](screenshot/foto1.png)
 
 * css eksternal di sisipkan dengan menambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
 ![gambar 7](screenshot/foto7.png)
