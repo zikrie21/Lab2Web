@@ -3,7 +3,6 @@
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
-
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 
 # Jawaban
@@ -38,8 +37,19 @@ contoh :
 * deklarasi css eksternal
 ![gambar 6](screenshot/foto1.png)
 
-* css eksternal di sisipkan dengan menambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
+* css eksternal di sisipkan dengan menambahkan tag link untuk merujuk file css yang sudah dibuat pada bagian head
 ![gambar 7](screenshot/foto7.png)
 
 tampilan di browser :
 ![gambar 8](screenshot/foto2.png)
+
+4. ketika deklarasi css selector dimasukan maka akan keluar pada browser
+
+* sebelum ada deklarasi selector
+![gambar 9](screenshot/foto8.png)
+
+* setelah dimasukan deklarasi selector
+![gambar 10](screenshot/foto10.png)
+
+* tampilan di browser :
+![gambar 11](screenshot/foto9.png)
